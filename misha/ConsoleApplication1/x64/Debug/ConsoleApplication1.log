@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\FonyP\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\FonyP\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(46,40): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\FonyP\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

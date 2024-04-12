@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\FonyP\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(13,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication2.vcxproj -> C:\Users\FonyP\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
